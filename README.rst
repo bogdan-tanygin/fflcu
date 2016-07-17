@@ -2,8 +2,8 @@ FFLCU
 =====
 .. image:: http://img.shields.io/badge/license-GPL-yellow.svg?style=flat
         :target: https://github.com/psci2195/ffans/blob/master/LICENSE.txt
-.. image:: http://img.shields.io/badge/arXiv-1212.2934v1-orange.svg?style=flat
-        :target: http://arxiv.org/abs/1212.2934v1
+.. image:: http://img.shields.io/badge/arXiv-1212.2934v2-orange.svg?style=flat
+        :target: http://arxiv.org/abs/1212.2934v2
 
 FFLCU is a large-scale ferrofluid GPU simulations platform.
 
