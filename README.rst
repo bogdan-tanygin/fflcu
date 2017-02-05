@@ -5,10 +5,12 @@ FFLCU
 .. image:: http://img.shields.io/badge/arXiv-1212.2934v2-orange.svg?style=flat
         :target: http://arxiv.org/abs/1212.2934v2
 
-FFLCU is a large-scale ferrofluid GPU simulations platform.
+FFLCU is a large-scale ferrofluid GPU simulations platform based on the Barnes-Hut algorithm.
 
 About
 -----
+
+**Note**, that that currenly this project is being merged to other `project <https://github.com/psci2195/espresso-ffans>`_. If you have questions regarding usage and/or collaboration, feel free to `contact <b.m.tanygin@gmail.com>`_.
 
 Original publication for `citation <http://dx.doi.org/10.1016/j.cpc.2013.01.016>`_: ::
 
